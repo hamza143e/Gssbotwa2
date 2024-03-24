@@ -22,11 +22,11 @@ global.APIs = {
 
 // Other
 global.apikey = 'bf2d2cf29b3edc604b447983';
-global.ownername = '𝑆𝛪𝐷 𝐵𝛨𝛥𝛪';
-global.owner = ['917050906659'];
-global.premium = ['917050906659'];
-global.packname = '𝚜𝚝𝚒𝚌𝚔𝚎𝚛 𝚋𝚢';
-global.author = '𝐆𝐒𝐒 𝚩𝚯𝚻𝐖𝚫';
+global.ownername = 'Khalid 𝐵𝛨𝛥𝛪';
+global.owner = ['639693998821'];
+global.premium = ['639693998821'];
+global.packname = 'NR DEVELOPER SHAZADA';
+global.author = 'KHALID BHAI';
 global.sessionName = 'session';
 global.prefa = ['!', '.'];
 global.sp = '✪';
@@ -43,8 +43,8 @@ global.mess = {
     wait: '*Processing Your request*',
     endLimit: '`Your daily limit has expired, the limit will be reset every 12 hours`',
 };
-global.link = 'https://whatsapp.com/channel/0029VaWJMi3GehEE9e1YsI1S'
-global.linkGroup = 'https://chat.whatsapp.com/E3PWxdvLc7ZCp1ExOCkEGp'
+global.link = 'https://whatsapp.com/channel/0029VaVPRZnK0IBbWek2rr1z'
+global.linkGroup = 'https://whatsapp.com/channel/0029VaVPRZnK0IBbWek2rr1z'
 global.autoswview = process.env.AUTO_STATUS_SEEN || "true",
 global.typemenu = 'v1' // 'v1' => 'v5'
 global.onlygroup = false // onlygroup
@@ -52,7 +52,7 @@ global.onlypc = false
 global.AUTO_ABOUT = false
 global.limitawal = {
     premium: 'Infinity',
-    free: 10
+    free: 100
 };
 
 // Add anticall option
